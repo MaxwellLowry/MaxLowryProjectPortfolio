@@ -7,8 +7,7 @@ Staged Combustion Project - Club: My contributions to OSU Liquid Propulsion Syst
 TVC gimbal model rocket - Personal: Designing, Manufacturing, Programming, and Iterating a gimbal-stabilized model rocket  
 
 PipeGen - Personal: utilized gemometry kernel technology to build a parametric pipe generator
-
-https://github.com/MaxwellLowry/PipeGen?tab=readme-ov-file
+           https://github.com/MaxwellLowry/PipeGen?tab=readme-ov-file
 
 
 
